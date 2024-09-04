@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ikhsan
-- 👀 I’m interested in anda
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in 🐟
+  Hobi Saya🎣🏍️
+- ⚡ Fun fact 
 
 <!---
 ikhsannur2007/ikhsannur2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
