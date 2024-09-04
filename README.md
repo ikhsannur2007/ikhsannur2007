@@ -1,3 +1,2 @@
 - 👋 Hi, I’m ikhsan
-- 👀 I’m interested in 🐟
 - Hobi Saya🎣🏍️
